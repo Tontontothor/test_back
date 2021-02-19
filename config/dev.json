@@ -1,0 +1,10 @@
+{
+  "app": {
+    "port": 3000,
+    "ip":"0.0.0.0",
+    "https_port":9004
+  },
+  "db-uri": "mongodb://localhost:27017/dev-app",
+  "jwt-secret": "jwt-secret-dev",
+  "api-key": "RGAPI-ec071c08-cc3d-4c8e-b46b-a8ea1739e6b2"
+}
